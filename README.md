@@ -26,3 +26,5 @@ dsa
 Vom aplica un commit la acest README.md si urmeaza
 
 un cherry pick
+
+adaugare linie noua in README 5.5.2025
